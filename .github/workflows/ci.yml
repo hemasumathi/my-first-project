@@ -1,4 +1,4 @@
-```yaml
+
 name: My First Action
 
 on:
@@ -19,4 +19,4 @@ jobs:
 
       - name: Show Message
         run: echo "GitHub Actions is working!"
-```
+
